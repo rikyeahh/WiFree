@@ -1,0 +1,34 @@
+/* css only for allUsers and allProducts pages */
+.adminNavbar {
+    margin: 0;
+    border: 0;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.usersTable{
+    border: 0;
+    display: flex;
+    justify-content: center;
+}
+
+table, td{
+    border: 2px solid lightgray;
+    border-collapse: collapse;
+}
+
+
+td {
+    background-color: white;
+    color: #291467;
+    max-width: 300px;
+    padding: 10px;
+}
+
+td a {
+    font-weight: bold;
+}

@@ -1,2 +1,2 @@
 # WiFree
-Ecommerce web app based on the LAMP stack
+ Ecommerce web app based on the LAMP stack
